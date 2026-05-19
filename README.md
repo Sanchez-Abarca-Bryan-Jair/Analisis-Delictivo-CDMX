@@ -6,6 +6,7 @@ Un proyecto de análisis de datos centrado en examinar la incidencia delictiva e
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+
 ---
 
 ## 📋 Tabla de Contenidos
@@ -23,6 +24,10 @@ La CDMX enfrenta desafíos significativos en materia de seguridad pública. Este
 
 El objetivo de este preprocesamiento es preparar un conjunto de datos robusto que permita aportar a la toma de decisiones informada, contribuyendo al debate sobre cómo reducir la criminalidad.
 
+<img width="1476" height="821" alt="image" src="https://github.com/user-attachments/assets/1682d4f2-9989-41bb-9faa-22483e9dce1d" />
+
+
+https://app.powerbi.com/view?r=eyJrIjoiNTYyYTk1NDQtYTJmNC00Nzk1LTg3YWMtZjFhZTBmMDA4MDU4IiwidCI6ImY5NGJmNGQ5LTgwOTctNDc5NC1hZGY2LWE1NDY2Y2EyODU2MyIsImMiOjR9
 ---
 
 ## Datos
